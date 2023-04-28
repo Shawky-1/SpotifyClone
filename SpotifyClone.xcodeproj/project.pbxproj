@@ -13,6 +13,23 @@
 		A115656829F8EF1700C7FD65 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A115656729F8EF1700C7FD65 /* Preview Assets.xcassets */; };
 		A115656A29F8EF1700C7FD65 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A115656929F8EF1700C7FD65 /* Persistence.swift */; };
 		A115656D29F8EF1700C7FD65 /* SpotifyClone.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A115656B29F8EF1700C7FD65 /* SpotifyClone.xcdatamodeld */; };
+		A115657429F8F06C00C7FD65 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A115657329F8F06C00C7FD65 /* HomeView.swift */; };
+		A115657829F8F2B100C7FD65 /* PlaylistsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A115657729F8F2B100C7FD65 /* PlaylistsView.swift */; };
+		A115659529FB29AA00C7FD65 /* CategoryPill.swift in Sources */ = {isa = PBXBuildFile; fileRef = A115659429FB29AA00C7FD65 /* CategoryPill.swift */; };
+		A115659829FB2B9200C7FD65 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A115659729FB2B9200C7FD65 /* Colors.swift */; };
+		A115659A29FB308900C7FD65 /* StretchableHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A115659929FB308900C7FD65 /* StretchableHeader.swift */; };
+		A11565B829FB370E00C7FD65 /* CircularStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B429FB36DF00C7FD65 /* CircularStd-Bold.otf */; };
+		A11565B929FB371100C7FD65 /* CircularStd-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B529FB36DF00C7FD65 /* CircularStd-BlackItalic.otf */; };
+		A11565BA29FB371300C7FD65 /* CircularStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565AF29FB36DF00C7FD65 /* CircularStd-Black.otf */; };
+		A11565BB29FB371900C7FD65 /* CircularStd-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B329FB36DF00C7FD65 /* CircularStd-BoldItalic.otf */; };
+		A11565BC29FB371B00C7FD65 /* CircularStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B029FB36DF00C7FD65 /* CircularStd-Book.otf */; };
+		A11565BD29FB371C00C7FD65 /* CircularStd-BookItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B629FB36DF00C7FD65 /* CircularStd-BookItalic.otf */; };
+		A11565BE29FB371E00C7FD65 /* CircularStd-Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B229FB36DF00C7FD65 /* CircularStd-Light Italic.otf */; };
+		A11565BF29FB372100C7FD65 /* CircularStd-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B729FB36DF00C7FD65 /* CircularStd-Light.otf */; };
+		A11565C029FB372400C7FD65 /* CircularStd-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565B129FB36DF00C7FD65 /* CircularStd-Medium.otf */; };
+		A11565C129FB372600C7FD65 /* CircularStd-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A11565AE29FB36DF00C7FD65 /* CircularStd-MediumItalic.otf */; };
+		A11565C429FB3E3300C7FD65 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A11565C329FB3E3300C7FD65 /* HeaderView.swift */; };
+		A11565C629FB3ECA00C7FD65 /* HomePlaylists.swift in Sources */ = {isa = PBXBuildFile; fileRef = A11565C529FB3ECA00C7FD65 /* HomePlaylists.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +40,24 @@
 		A115656729F8EF1700C7FD65 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A115656929F8EF1700C7FD65 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A115656C29F8EF1700C7FD65 /* SpotifyClone.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SpotifyClone.xcdatamodel; sourceTree = "<group>"; };
+		A115657329F8F06C00C7FD65 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		A115657729F8F2B100C7FD65 /* PlaylistsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistsView.swift; sourceTree = "<group>"; };
+		A115659429FB29AA00C7FD65 /* CategoryPill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryPill.swift; sourceTree = "<group>"; };
+		A115659729FB2B9200C7FD65 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		A115659929FB308900C7FD65 /* StretchableHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StretchableHeader.swift; sourceTree = "<group>"; };
+		A11565AE29FB36DF00C7FD65 /* CircularStd-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-MediumItalic.otf"; sourceTree = "<group>"; };
+		A11565AF29FB36DF00C7FD65 /* CircularStd-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-Black.otf"; sourceTree = "<group>"; };
+		A11565B029FB36DF00C7FD65 /* CircularStd-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-Book.otf"; sourceTree = "<group>"; };
+		A11565B129FB36DF00C7FD65 /* CircularStd-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-Medium.otf"; sourceTree = "<group>"; };
+		A11565B229FB36DF00C7FD65 /* CircularStd-Light Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-Light Italic.otf"; sourceTree = "<group>"; };
+		A11565B329FB36DF00C7FD65 /* CircularStd-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-BoldItalic.otf"; sourceTree = "<group>"; };
+		A11565B429FB36DF00C7FD65 /* CircularStd-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-Bold.otf"; sourceTree = "<group>"; };
+		A11565B529FB36DF00C7FD65 /* CircularStd-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-BlackItalic.otf"; sourceTree = "<group>"; };
+		A11565B629FB36DF00C7FD65 /* CircularStd-BookItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-BookItalic.otf"; sourceTree = "<group>"; };
+		A11565B729FB36DF00C7FD65 /* CircularStd-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CircularStd-Light.otf"; sourceTree = "<group>"; };
+		A11565C229FB37C700C7FD65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A11565C329FB3E3300C7FD65 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		A11565C529FB3ECA00C7FD65 /* HomePlaylists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePlaylists.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +90,13 @@
 		A115655F29F8EF1600C7FD65 /* SpotifyClone */ = {
 			isa = PBXGroup;
 			children = (
+				A11565C229FB37C700C7FD65 /* Info.plist */,
 				A115656029F8EF1600C7FD65 /* SpotifyCloneApp.swift */,
-				A115656229F8EF1600C7FD65 /* ContentView.swift */,
+				A115659629FB2B8C00C7FD65 /* Helpers */,
+				A115657529F8F0D800C7FD65 /* Views */,
+				A115659B29FB368300C7FD65 /* Fonts */,
 				A115656429F8EF1700C7FD65 /* Assets.xcassets */,
+				A115656229F8EF1600C7FD65 /* ContentView.swift */,
 				A115656929F8EF1700C7FD65 /* Persistence.swift */,
 				A115656B29F8EF1700C7FD65 /* SpotifyClone.xcdatamodeld */,
 				A115656629F8EF1700C7FD65 /* Preview Content */,
@@ -71,6 +110,68 @@
 				A115656729F8EF1700C7FD65 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A115657529F8F0D800C7FD65 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A115657629F8F1A300C7FD65 /* Home */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A115657629F8F1A300C7FD65 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A115659329FB298600C7FD65 /* Sub Views */,
+				A115659229FB297A00C7FD65 /* HomeView */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		A115659229FB297A00C7FD65 /* HomeView */ = {
+			isa = PBXGroup;
+			children = (
+				A115657329F8F06C00C7FD65 /* HomeView.swift */,
+			);
+			path = HomeView;
+			sourceTree = "<group>";
+		};
+		A115659329FB298600C7FD65 /* Sub Views */ = {
+			isa = PBXGroup;
+			children = (
+				A115657729F8F2B100C7FD65 /* PlaylistsView.swift */,
+				A115659429FB29AA00C7FD65 /* CategoryPill.swift */,
+				A11565C329FB3E3300C7FD65 /* HeaderView.swift */,
+				A11565C529FB3ECA00C7FD65 /* HomePlaylists.swift */,
+			);
+			path = "Sub Views";
+			sourceTree = "<group>";
+		};
+		A115659629FB2B8C00C7FD65 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				A115659729FB2B9200C7FD65 /* Colors.swift */,
+				A115659929FB308900C7FD65 /* StretchableHeader.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		A115659B29FB368300C7FD65 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				A11565AF29FB36DF00C7FD65 /* CircularStd-Black.otf */,
+				A11565B529FB36DF00C7FD65 /* CircularStd-BlackItalic.otf */,
+				A11565B429FB36DF00C7FD65 /* CircularStd-Bold.otf */,
+				A11565B329FB36DF00C7FD65 /* CircularStd-BoldItalic.otf */,
+				A11565B029FB36DF00C7FD65 /* CircularStd-Book.otf */,
+				A11565B629FB36DF00C7FD65 /* CircularStd-BookItalic.otf */,
+				A11565B229FB36DF00C7FD65 /* CircularStd-Light Italic.otf */,
+				A11565B729FB36DF00C7FD65 /* CircularStd-Light.otf */,
+				A11565B129FB36DF00C7FD65 /* CircularStd-Medium.otf */,
+				A11565AE29FB36DF00C7FD65 /* CircularStd-MediumItalic.otf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,7 +233,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				A115656829F8EF1700C7FD65 /* Preview Assets.xcassets in Resources */,
+				A11565BE29FB371E00C7FD65 /* CircularStd-Light Italic.otf in Resources */,
+				A11565BB29FB371900C7FD65 /* CircularStd-BoldItalic.otf in Resources */,
+				A11565BF29FB372100C7FD65 /* CircularStd-Light.otf in Resources */,
+				A11565B829FB370E00C7FD65 /* CircularStd-Bold.otf in Resources */,
+				A11565BC29FB371B00C7FD65 /* CircularStd-Book.otf in Resources */,
+				A11565B929FB371100C7FD65 /* CircularStd-BlackItalic.otf in Resources */,
+				A11565C129FB372600C7FD65 /* CircularStd-MediumItalic.otf in Resources */,
 				A115656529F8EF1700C7FD65 /* Assets.xcassets in Resources */,
+				A11565BA29FB371300C7FD65 /* CircularStd-Black.otf in Resources */,
+				A11565BD29FB371C00C7FD65 /* CircularStd-BookItalic.otf in Resources */,
+				A11565C029FB372400C7FD65 /* CircularStd-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,10 +254,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A115659A29FB308900C7FD65 /* StretchableHeader.swift in Sources */,
+				A115659529FB29AA00C7FD65 /* CategoryPill.swift in Sources */,
+				A115659829FB2B9200C7FD65 /* Colors.swift in Sources */,
+				A115657829F8F2B100C7FD65 /* PlaylistsView.swift in Sources */,
 				A115656D29F8EF1700C7FD65 /* SpotifyClone.xcdatamodeld in Sources */,
+				A11565C429FB3E3300C7FD65 /* HeaderView.swift in Sources */,
 				A115656A29F8EF1700C7FD65 /* Persistence.swift in Sources */,
 				A115656329F8EF1600C7FD65 /* ContentView.swift in Sources */,
+				A115657429F8F06C00C7FD65 /* HomeView.swift in Sources */,
 				A115656129F8EF1600C7FD65 /* SpotifyCloneApp.swift in Sources */,
+				A11565C629FB3ECA00C7FD65 /* HomePlaylists.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +396,7 @@
 				DEVELOPMENT_TEAM = KQP2A9KA89;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SpotifyClone/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -307,6 +426,7 @@
 				DEVELOPMENT_TEAM = KQP2A9KA89;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SpotifyClone/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
